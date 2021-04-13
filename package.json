@@ -1,14 +1,14 @@
 {
-  "name": "aws-elastic-beanstalk-express-js-sample",
+  "name": "Pickles Asia Interview app",
   "version": "1.0.0",
-  "description": "Sample Node.js (Express) app for AWS Elastic Beanstalk",
+  "description": "Pickles Asia Interview app AWS Elastic Beanstalk",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aws-samples/aws-elastic-beanstalk-express-js-sample.git"
+    "url": "https://github.com/hauhan842001/aws-elastic-beanstalk-express-js-sample.git"
   },
   "license": "MIT-0",
   "dependencies": {
